@@ -1,0 +1,34 @@
+Smart Blind Stick – IoT Navigation Aid
+
+📦 Components Used:
+
+1. Arduino UNO – 1 pc  
+   (Main microcontroller for processing sensor data)
+
+2. Ultrasonic Sensor (HC-SR04) – 1 pc  
+   (Used for obstacle detection)
+
+3. Moisture Sensor – 1 pc  
+   (Detects presence of water on the ground)
+
+4. RF Transmitter and Receiver (433 MHz) – 1 set  
+   (Helps locate the stick remotely via buzzer)
+
+5. Buzzer – 1 pc  
+   (Used to alert user upon obstacle or water detection)
+
+6. Jumper Wires – 10+ pcs  
+   (Connections between modules and Arduino)
+
+7. Breadboard – 1 pc  
+   (Optional for prototyping circuit)
+
+8. 9V Battery with Connector – 1 pc  
+   (Power supply for Arduino)
+
+9. Stick/Frame (PVC or cane rod) – 1 pc  
+   (Structure to mount the electronics)
+
+🔧 Optional:
+- Switch for power on/off
+- LED indicators for sensor status
